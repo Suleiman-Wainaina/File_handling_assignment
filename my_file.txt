@@ -1,0 +1,13 @@
+This is my first line.
+This is the second line with  a number: 492
+The last line for now.
+
+Here are some additional lines:
+Line 1 after appending.
+Line 2 after appending.
+Line 3 after appending.
+
+Here are some additional lines:
+Line 1 after appending.
+Line 2 after appending.
+Line 3 after appending.
